@@ -1,8 +1,53 @@
-# React + Vite
+# Drop - React Vite UI with Tailwind CSS & Framer Motion
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple UI built using **React + Vite**, styled with **Tailwind CSS**, and featuring **Draggable Cards** using **Framer Motion**.
 
-Currently, two official plugins are available:
+## 🚀 Features
+- 🏗 Built with React and Vite for fast development
+- 🎨 Styled with Tailwind CSS
+- 🖱️ Draggable cards using Framer Motion
+- ⚡ Smooth animations & lightweight
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📸 Preview
+![Project Preview](./screenshot.png)
+
+## 📂 Installation & Setup
+
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/your-username/drop.git
+   ```
+
+2. Navigate to the project directory:
+   ```sh
+   cd drop
+   ```
+
+3. Install dependencies:
+   ```sh
+   npm install
+   ```
+
+4. Start the development server:
+   ```sh
+   npm run dev
+   ```
+
+## 🛠 Technologies Used
+- **React** (Vite)
+- **Tailwind CSS** for styling
+- **Framer Motion** for animations
+
+## 📜 License
+This project is open-source and available under the [MIT License](LICENSE).
+
+## 🙌 Contribution
+Feel free to fork the project, submit issues, or contribute! PRs are welcome.
+
+## 🌎 Live Demo
+Check out the live version: [Demo Link](https://your-live-demo-url.com)
+
+---
+
+Made with ❤️ by [Your Name](https://github.com/your-username).
+
