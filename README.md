@@ -15,7 +15,7 @@ This is a simple UI built using **React + Vite**, styled with **Tailwind CSS**, 
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/drop.git
+   https://github.com/Ashish-Devadiga/Drop.git
    ```
 
 2. Navigate to the project directory:
