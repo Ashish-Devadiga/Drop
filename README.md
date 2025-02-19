@@ -8,6 +8,9 @@ This is a simple UI built using **React + Vite**, styled with **Tailwind CSS**, 
 - 🖱️ Draggable cards using Framer Motion
 - ⚡ Smooth animations & lightweight
 
+## 🌎 Live Demo
+Check out the live version: [Demo Link](https://your-live-demo-url.com)
+
 ## 📸 Preview
 ![Project Preview](./screenshot.png)
 
@@ -43,9 +46,6 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ## 🙌 Contribution
 Feel free to fork the project, submit issues, or contribute! PRs are welcome.
-
-## 🌎 Live Demo
-Check out the live version: [Demo Link](https://your-live-demo-url.com)
 
 ---
 
