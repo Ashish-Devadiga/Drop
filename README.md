@@ -12,7 +12,7 @@ This is a simple UI built using **React + Vite**, styled with **Tailwind CSS**, 
 Check out the live version: [Drop](https://drop-nwum.onrender.com)
 
 ## 📸 Preview
-![Project Preview](https://pin.it/2DLeRZ3qT)
+![Project Preview](https://i.pinimg.com/736x/dc/e4/1d/dce41dd74d715d1d8831ad1ab0b8c38a.jpg)
 
 ## 📂 Installation & Setup
 
