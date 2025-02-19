@@ -49,5 +49,5 @@ Feel free to fork the project, submit issues, or contribute! PRs are welcome.
 
 ---
 
-Made with ❤️ by [Your Name](https://github.com/your-username).
+Made with ❤️ by [Ashish Devadiga](https://github.com/Ashish-Devadiga).
 
